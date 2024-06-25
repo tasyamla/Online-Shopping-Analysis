@@ -1,0 +1,1 @@
+Tidak terdapat file ddl karena menggunakan pyhton untuk memasukkan dataset .csv kedalam PostgreSQL
